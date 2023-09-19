@@ -1,3 +1,5 @@
+// Cherry Mirra Calisnao: "When you realize your self-worth you'll stop giving people discounts"
+// Rovalen Joy Calaguing: "We only need to be one person. We only need to feel one existence. We don't have to do everything in order to be everything, because we are already infinite. While we are alive we always contain a future multifarious possibility"
 import 'package:flutter/material.dart';
 
 void main() {
